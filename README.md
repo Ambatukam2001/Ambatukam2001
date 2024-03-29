@@ -1,4 +1,3 @@
-![Header](./your-header-github-header-image.png)
 <h3 align="center">A Learner of BSIT</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
